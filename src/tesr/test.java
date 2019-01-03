@@ -8,7 +8,7 @@ public class test {
 		System.out.println("Wieso klappt das nicht vernünfitg?");
 		System.out.println("Es klappt! Hurra!!!!");
 		System.out.println("Es klappt doch nicht wirklich....");
-		
+		System.out.println("Doch es klappt xD Ich hätte nur länger warten müssen!");
 	}
 
 }
